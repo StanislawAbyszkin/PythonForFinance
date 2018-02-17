@@ -6,6 +6,9 @@ __pycache__/
 # Pycharm stuff
 .idea
 
+# Ignore Data folder, as I'm not sure about copyrights for datasets I have
+Data/
+
 # C extensions
 *.so
 
